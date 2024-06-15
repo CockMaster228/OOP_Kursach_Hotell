@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6AEE2B7A-8742-47D1-8EA1-A5FFC46D3CD9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>OOP_Kursach_Museum</RootNamespace>
-    <AssemblyName>OOP_Kursach_Museum</AssemblyName>
+    <RootNamespace>OOP_Kursach_Guest</RootNamespace>
+    <AssemblyName>OOP_Kursach_Hotell</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
